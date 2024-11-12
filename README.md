@@ -1,14 +1,12 @@
-richsea-whitepaper
-│
-├── README.md                # Introduction and summary of the whitepaper
-├── whitepaper.md            # Main whitepaper document in markdown format
-├── assets                   # Folder for images, graphics, and other assets
-│   ├── tokenomics.png       # Example image for tokenomics chart
-│   └── roadmap.png          # Example image for roadmap
-├── appendix                 # Folder for appendix documents
-│   ├── glossary.md          # Glossary terms
-│   ├── technical_specs.md   # Technical details and specifications
-│   ├── token_burn.md        # Token burn schedule and explanation
-│   └── smart_contract.md    # Smart contract code and explanations
-├── LICENSE.md               # License for the whitepaper content
-└── CONTRIBUTING.md          # Guidelines for contributions to the repository
+# RichSea Whitepaper
+
+Welcome to the RichSea Whitepaper repository. This repository hosts the official whitepaper for the RichSea project, providing detailed information on our mission, vision, and technical approach. 
+
+## Table of Contents
+- [Whitepaper](whitepaper.md)
+- [Appendix](appendix)
+- [License](LICENSE.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+
+## About RichSea
+RichSea is a decentralized SocialFi platform focused on empowering users to create, manage, and grow wealth through community-driven investments.￼Enter

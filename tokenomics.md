@@ -16,4 +16,4 @@ The token distribution is as follows:
 - **Staking Pool**: 22%
 - **Project Development**: 15%
 - **Listing**: 5%
-- **Burning Mechanism**: A token burn schedule to maintain token value.￼Enter
+- **Burning Mechanism**: A token burn schedule to maintain token value.

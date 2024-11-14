@@ -15,6 +15,7 @@ RichSea is a decentralized SocialFi platform focused on empowering users to crea
 - [Technical Overview](techview.md)
 - [Tokenomics](token.md)
 - [Roadmap](roadmap.md)
+- [Milestones](milestones.md)
 - [Team](team.md)
 - [Partnerships](partner.md)
 - [Conclusion & Contact](conclusion.md)

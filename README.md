@@ -1,3 +1,5 @@
+![RichSea Logo](https://github.com/RichSea-SocialFi/Whitepaper/blob/main/rich-whitepaper.jpg)
+
 # RichSea Whitepaper
 
 Welcome to the RichSea Whitepaper repository. This repository hosts the official whitepaper for the RichSea project, providing detailed information on our mission, vision, and technical approach. 

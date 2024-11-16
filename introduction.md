@@ -1,7 +1,5 @@
 ![RichSea Logo](https://github.com/RichSea-SocialFi/Whitepaper/raw/main/richpaper.png)
 
-<link rel="stylesheet" href="appendix.css">
-
 # Introduction
 The current financial landscape is fraught with issues like inequality, inefficiency, 
     and restricted access to opportunities. Traditional financial systems often exclude marginalized communities, 

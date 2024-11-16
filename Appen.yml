@@ -4,4 +4,4 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
 include:
-  - assets/css/appendix.css
+  - appendix.css

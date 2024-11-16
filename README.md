@@ -8,6 +8,7 @@ Welcome to the RichSea Whitepaper repository. This repository hosts the official
 RichSea is a decentralized SocialFi platform focused on empowering users to create, manage, and grow wealth through community-driven investments.
 
 ## Table of Contents
+
 ## **[Introduction](introduction.md)**
 
 ## **[Problem Statement](problem.md)**

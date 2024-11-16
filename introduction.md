@@ -1,4 +1,4 @@
-![RichSea Logo](https://github.com/RichSea-SocialFi/Whitepaper/tree/main/richpaper.png)
+![RichSea Logo](https://github.com/RichSea-SocialFi/Whitepaper/raw/main/richpaper.png)
 
 # Introduction
 The current financial landscape is fraught with issues like inequality, inefficiency, 

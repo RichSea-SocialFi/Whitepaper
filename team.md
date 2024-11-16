@@ -5,7 +5,7 @@ RichSea is led by a team of experienced professionals in blockchain, technology,
 ## Mr. Daniel Usoroh - CEO
 - 5+ years in blockchain and finance
 
-## Rhythm Kogoko Shadrach - CTO
+## Rhythm K. Shadrach - CTO
 - 10+ years in software development and blockchain
 
 ## Nick Tamah - Blockchain Product Developer

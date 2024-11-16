@@ -1,0 +1,30 @@
+/* style.css */
+body {
+    background: linear-gradient(135deg, #1C64F2, #0B3D91); /* SUI-like blue tones */
+    color: #ffffff; /* White text for readability */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #E0F7FA; /* Lighter blue for headers */
+}
+
+a {
+    color: #64B5F6; /* Bright blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #42A5F5;
+    text-decoration: underline;
+}
+
+code {
+    background-color: #0B3D91;
+    color: #E0F7FA;
+    padding: 4px;
+    border-radius: 4px;
+    font-family: monospace;
+}

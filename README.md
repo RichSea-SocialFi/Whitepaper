@@ -1,4 +1,4 @@
-![RichSea Logo](https://github.com/RichSea-SocialFi/Whitepaper/blob/main/richpaper.jpg)
+![RichSea Logo](https://github.com/RichSea-SocialFi/Whitepaper/blob/main/richpaper.png)
 
 # RichSea Whitepaper
 

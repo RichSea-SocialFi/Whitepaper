@@ -14,5 +14,5 @@ RichSea is led by a team of experienced professionals in blockchain, technology,
 ## Kelvin Chucks - Marketing Director
 - 5+ years in marketing and community building
 
-## Findov - Branding
+## Findov - Web Dev & Branding
 

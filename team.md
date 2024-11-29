@@ -8,7 +8,7 @@ RichSea is led by a team of experienced professionals in blockchain, technology,
 ## Rhythm K. Shadrach - CTO
 - 10+ years in software development and blockchain
 
-## Nick Tamah - Blockchain Content Creator
+## Nick Tamah - Blockchain Consultant
 - 4+ years experience in blockchain/crypto space.
 
 ## Kelvin Chucks - Marketing Director
